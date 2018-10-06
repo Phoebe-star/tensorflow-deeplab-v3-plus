@@ -1,5 +1,7 @@
 # DeepLab-v3-plus Semantic Segmentation in TensorFlow
 
+another code https://github.com/sthalles/deeplab_v3
+
 This repo attempts to reproduce [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation (DeepLabv3+)](https://arxiv.org/abs/1802.02611) in 
 TensorFlow for semantic image segmentation on the
  [PASCAL VOC dataset](http://host.robots.ox.ac.uk/pascal/VOC/).
